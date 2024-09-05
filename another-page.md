@@ -4,7 +4,6 @@ layout: default
 
 ## Google Cybersecurity Professional Certificates:
 
-Foundation of Cybersecurity
-https://www.coursera.org/account/accomplishments/verify/3MNB94NDOX44
+[Foundation of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3MNB94NDOX44).
 
 [Return to Homepage](./)
