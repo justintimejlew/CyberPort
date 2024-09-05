@@ -37,7 +37,12 @@
 
       </section>
       <footer>
-        <p>Testing Layout</p>
+        <script>
+          function myFunction() {
+            var element = document.body;
+            element.classList.toggle("dark-mode");
+          }
+        </script>
         {% if site.github.is_project_page %}
         <p>This site is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
