@@ -2,7 +2,11 @@
 layout: default
 ---
 
-Hello and welcome to my portfolio! My name is Justin, which comes from the Greek word Justus where the English word for Justice is derived. In short, I strive to live up to the meaning of my name which led me to pursue a career in cybersecurity.
+Hello, my name is Justin!
+
+> It is the anglicized form of the Latin given name _Justinus_, a derivative of _Justus_, meaning "just", "fair", or "righteous".
+
+In short, I strive to live up to the meaning of my name which led me to pursue a career in cybersecurity and this is my portfolio.
 
 ## Professional Statement
 
@@ -92,15 +96,6 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
 ### Definition lists can be used with HTML syntax.
 
 <dl>
@@ -116,8 +111,4 @@ end
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
 ```
