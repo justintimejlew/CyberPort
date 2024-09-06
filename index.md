@@ -121,3 +121,11 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+## 📲 Connect with me:
+
+[<img align="left" alt="JustinTimeJLew | Twitter" width="22px" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.768.png" />][twitter]
+[<img align="left" alt="JustinTimeJLew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://x.com/JustinTimeJLew
+[linkedin]: https://www.linkedin.com/in/justintimejlew/
