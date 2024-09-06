@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Google Cybersecurity Professional Certificates:
+## Google Cybersecurity Certifications
 
 * [Foundation of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3MNB94NDOX44)
 
