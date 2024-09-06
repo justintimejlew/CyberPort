@@ -34,15 +34,16 @@
       </header>
       <section>
 
-      <center><button onclick="myFunction()">Toggle Dark Mode</button>
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><center><button onclick="myFunction()">Toggle Dark Mode</button>
         <script>
         function myFunction() {
            var element = document.body;
            element.classList.toggle("dark-mode");}
-        </script></center>
-
-      </section>
-      <footer>        
+        </script></center></p>
         <center><h3>📲 Connect with me:</h3>
         <style>
         table, th, td {} table {
