@@ -45,9 +45,6 @@
            element.classList.toggle("dark-mode");
         }
         </script>
-        {% if site.github.is_project_page %}
-        <p>This site is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
         
         <h3>📲 Connect with me:</h3>
         <style>
@@ -65,6 +62,10 @@
             <img alt="JustinTimeJLew | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-black-and-white-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png">
             </a></th></center>
           </tr>
+        
+        {% if site.github.is_project_page %}
+        <p style="font-size:90%;">This site is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
