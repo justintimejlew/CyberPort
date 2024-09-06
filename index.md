@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello and welcome to my portfolio! My name is Justin, which comes from the Greek word Justus where the English word for Justice is derived. In short, I strive to live up to the meaning of my name which led me to pursue a career in cybersecurity.
 
-There should be whitespace between paragraphs.
+## Professional Statement
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+As a cybersecurity professional, I am deeply committed to upholding the highest ethical standards, continuously advancing my knowledge to stay ahead of emerging threats, and adapting to the ever-changing cybersecurity landscape. By prioritizing honesty, transparency, and respect for privacy, I strive to do what is required to protect sensitive information and build trust and resilience within organizations, effectively supporting their security goals as if they were my own.
 
-## Certifications
+## Cybersecurity Certifications
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -17,6 +17,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Header 3
 
