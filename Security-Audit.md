@@ -4,6 +4,10 @@ layout: default
 
 ## Performing a Security Audit
 
-* [Foundation of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/3MNB94NDOX44)
+My task was to review a fictional IT manager’s scope, goals, and risk assessment report.
+
+Then, perform an internal audit by completing a controls and compliance checklist.
+
+Here are my results:
 
 [Return to Homepage](./)
