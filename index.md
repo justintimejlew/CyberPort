@@ -4,9 +4,9 @@ layout: default
 
 Hello, my name is Justin!
 
-> It is the anglicized form of the Latin given name _Justinus_, a derivative of _Justus_, meaning "just", "fair", or "righteous".
+> A derivative of _Justus_, meaning "just", "fair", or "righteous".
 
-In short, I strive to live up to the meaning of my name which led me to pursue a career in cybersecurity and this is my portfolio.
+In short, I strive to live up to the meaning of my name which led me to pursue a career in cybersecurity and this is my portfolio. 😅
 
 ## Professional Statement
 
