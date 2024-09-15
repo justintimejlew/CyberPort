@@ -16,6 +16,10 @@ As a cybersecurity professional, I am deeply committed to upholding the highest 
 
 * [Link to Google Certifications](./Google-Certificates.html).
 
+## Performing a Security Audit
+
+* [Link to Security Audit](./Security-Audit.html).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### There's a horizontal rule below this.
