@@ -17,7 +17,7 @@ Below is a summary of the audit I performed:
 * * *
 
 #### Controls Assessment Checklist for Carporium Toys
-* __NOTE:__ “Yes” or “no” is selected to answer the question related to each control listed
+__NOTE:__ “Yes” or “no” is selected to answer the question related to each control listed
 
 |Yes  |No   |Control                                                                                                            |
 |:---:|:---:|:---|
@@ -36,10 +36,8 @@ Below is a summary of the audit I performed:
 |     |     | Closed-circuit television (CCTV) surveillance                                                                     |
 |     |     | Fire detection/prevention (fire alarm, sprinkler system, etc.)                                                    |
 
-* * *
-
 #### Compliance Checklist for Carporium Toys
-* “Yes” or “no” is selected to answer the question related to each compliance best practice
+__NOTE:__ “Yes” or “no” is selected to answer the question related to each compliance best practice
 
 __Payment Card Industry Data Security Standard (PCI DSS)__
 
