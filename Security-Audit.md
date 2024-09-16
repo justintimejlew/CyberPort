@@ -10,7 +10,7 @@ Then, perform an internal audit by completing a controls and compliance checklis
 
 ### Controls and Compliance Checklist for Carporium Toys
 
-__Please note the following for the consideration of each item:__
+__Please note the following considerations for each item:__
 * “Yes” or “no” is selected to answer the question related to each control listed
 
 * “Yes” or “no” is selected to answer the question related to each compliance best practice
