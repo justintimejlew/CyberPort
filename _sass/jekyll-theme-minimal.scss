@@ -28,6 +28,7 @@ h1, h2, h3 {
 }
 
 h1 {
+  color:#393939;
   font-size:28px;
 }
 
@@ -124,7 +125,7 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:250px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -208,7 +209,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:250px;
   float:left;
   position:fixed;
   bottom:50px;
