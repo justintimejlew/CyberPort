@@ -17,7 +17,7 @@ Below is a summary of the audit I performed:
 * * *
 
 #### Controls Assessment Checklist for Carporium Toys
-__NOTE:__ “Yes” or “no” is selected to answer the question related to each control listed
+__NOTE:__ “Yes” or “no” is selected to answer each control listed below
 
 |Yes  |No   |Control                                                                                                            |
 |:---:|:---:|:---|
@@ -37,7 +37,7 @@ __NOTE:__ “Yes” or “no” is selected to answer the question related to ea
 |     |     | Fire detection/prevention (fire alarm, sprinkler system, etc.)                                                    |
 
 #### Compliance Checklist for Carporium Toys
-__NOTE:__ “Yes” or “no” is selected to answer the question related to each compliance best practice
+__NOTE:__ “Yes” or “no” is selected to answer each compliance best practice question
 
 __Payment Card Industry Data Security Standard (PCI DSS)__
 
