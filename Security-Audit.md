@@ -66,4 +66,12 @@ __System and Organizations Controls (SOC type 1, SOC type 2)__
 |     | X   | Data integrity ensures the data is consistent, complete, accurate, and has been validated.                        |
 |     | X   | Data is available to individuals authorized to access it.                                                         |
 
+## Summary of Controls and Compliance Checklist
+
+Upon review of the exemplar provided to confirm if I accessed the checklist accurately, there was one item that I did not consider correctly, which was whether or not:
+
+* Data integrity ensures the data is consistent, complete, accurate, and has been validated.
+
+I selected "No;" however, the exemplar stated that it was "Yes." The reason why I selected no was because I did not see the statement from the internal audit stating that "the IT department has ensured availability and integrated controls to ensure data integrity" and made the assumption that it was not.
+
 [Return to Homepage](./)
