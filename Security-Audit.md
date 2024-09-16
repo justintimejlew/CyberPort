@@ -8,6 +8,8 @@ My task was to review a fictional IT manager’s scope, goals, and risk assessme
 
 Then, perform an internal audit by completing a controls and compliance checklist.
 
+Below is a summary of the audit I performed:
+* * *
 ### Controls and Compliance Checklist for Carporium Toys
 
 #### Controls Assessment Checklist for Carporium Toys
