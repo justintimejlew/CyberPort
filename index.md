@@ -14,11 +14,11 @@ As a cybersecurity professional, I am deeply committed to upholding the highest 
 
 ## Cybersecurity Certifications
 
-* [Link to Google Certifications](./Google-Certificates.html).
+* [Link to Google Certifications](./Google-Certificates.html)
 
 ## Performing a Security Audit
 
-* [Link to Security Audit](./Security-Audit.html).
+* [Link to Security Audit](./Security-Audit.html)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
